@@ -1,18 +1,25 @@
 body
 {
-	background-color: #FEF178;
+	background: #fff26f;
+	width: 90%;
 }
+
 figure
 {
-	margin: 0;
-	padding: 0;
-	width: 100px;
+	margin: 0 auto;
+	width: 10%;
+	padding-left: 30%;
+	vertical-align: middle;
+	display: inline-block;
 }
-figure img
-{
-	width: 100%;
-}
-figure img figcaption
-{
-	color: #fff;
+
+
+h1{
+color: #76a9e0;
+margin: 0 auto;
+width: 100%;
+padding: 1em;
+padding-left: 30%;
+font-size: 50px;
+
 }
