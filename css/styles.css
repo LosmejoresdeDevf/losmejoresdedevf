@@ -1,0 +1,18 @@
+body
+{
+	background-color: #FEF178;
+}
+figure
+{
+	margin: 0;
+	padding: 0;
+	width: 100px;
+}
+figure img
+{
+	width: 100%;
+}
+figure img figcaption
+{
+	color: #fff;
+}
